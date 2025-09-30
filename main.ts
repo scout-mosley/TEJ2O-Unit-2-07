@@ -1,8 +1,16 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2025 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: scout mosley
+ * Created on: Sep 2025
+ * This program adds one to counter when a is pressed
 */
+basic.clearScreen()
+basic.showIcon(IconNames.Happy)
 
-basic.showString('Hello, World!')
+let numberOfCookies:number
+
+
+input.buttonIsPressed(Button.A)
+basic.showNumber
+numberOfCookies=(numberOfCookies+1)
+
