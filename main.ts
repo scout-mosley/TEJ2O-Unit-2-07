@@ -5,6 +5,7 @@
  * This program adds one to counter when a is pressed.
 */
 
+//clean up
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
