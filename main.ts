@@ -1,6 +1,6 @@
 /* Copyright (c) 2025 MTHS All rights reserved
  *
- * Created by: scout mosley
+ * Created by: Scout Mosley
  * Created on: Oct 2025
  * This program adds one to counter when a is pressed.
 */
