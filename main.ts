@@ -16,3 +16,10 @@ input.onButtonPressed(Button.A, function () {
     basic.clearScreen()
     basic.showNumber(cookiesPressed)
 })
+
+// reset score
+input.onButtonPressed(Button.B, function () {
+    cookiesPressed = 0
+    basic.clearScreen()
+    basic.showNumber(cookiesPressed)
+})
